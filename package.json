@@ -19,7 +19,7 @@
     "github actions",
     "nodejs",
     "typescript",
-    "starter"
+    "test"
   ],
   "author": "Max Nikitin <max@rururu.me>",
   "license": "MIT",
